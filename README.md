@@ -10,7 +10,7 @@ Hotel Website
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/talhawaqar/html-forms-/f9bcf1e47d7e8e0eab351b42f6bb7fded3eb5e64/index.html)
+[Live Demo Link](https://rawcdn.githack.com/talhawaqar/hotel_website/af71baa82cfe5280bfd3ea7c48610382a2b5e4be/index.html)
 
 ## Authors
 
