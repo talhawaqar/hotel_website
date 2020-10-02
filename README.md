@@ -1,4 +1,4 @@
-# html-forms-
+# html-forms
 Hotel Website
 
 ![screenshot](./images/Screenshot.png)
